@@ -1,0 +1,176 @@
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\WebServices.dll.config
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\WebServices.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\WebServices.pdb
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csc.exe
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csc.exe.config
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csc.rsp
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csi.exe
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csi.exe.config
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\csi.rsp
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.AppContext.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Console.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Net.Http.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\vbc.exe
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\vbc.exe.config
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\vbc.rsp
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Antlr3.Runtime.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\EntityFramework.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\EntityFramework.SqlServer.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Newtonsoft.Json.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Net.Http.Formatting.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Helpers.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Http.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Http.WebHost.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Mvc.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Optimization.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Razor.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\WebGrease.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\EntityFramework.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\EntityFramework.SqlServer.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Newtonsoft.Json.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Net.Http.Formatting.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Helpers.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Http.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Http.WebHost.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Mvc.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Optimization.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.Razor.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Antlr3.Runtime.pdb
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\obj\Debug\WebServices.csproj.CopyComplete
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\obj\Debug\WebServices.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\WebServices\obj\Debug\WebServices.pdb
+C:\ShareCon Project\HelloWord\WebServices\bin\WebServices.dll.config
+C:\ShareCon Project\HelloWord\WebServices\bin\WebServices.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\WebServices.pdb
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csc.exe
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csc.exe.config
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csc.rsp
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csi.exe
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csi.exe.config
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\csi.rsp
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.AppContext.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Console.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.IO.Compression.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Net.Http.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Net.Sockets.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.ValueTuple.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Xml.XPath.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\vbc.exe
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\vbc.exe.config
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\vbc.rsp
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\VBCSCompiler.exe
+C:\ShareCon Project\HelloWord\WebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\ShareCon Project\HelloWord\WebServices\bin\Antlr3.Runtime.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\EntityFramework.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\EntityFramework.SqlServer.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\Microsoft.Web.Infrastructure.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\Newtonsoft.Json.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Net.Http.Formatting.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Helpers.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Http.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Http.WebHost.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Mvc.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Optimization.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Razor.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.Deployment.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.Razor.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\WebGrease.dll
+C:\ShareCon Project\HelloWord\WebServices\bin\EntityFramework.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\EntityFramework.SqlServer.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\Newtonsoft.Json.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Net.Http.Formatting.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Helpers.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Http.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Http.WebHost.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Mvc.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Optimization.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.Razor.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.Deployment.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\System.Web.WebPages.Razor.xml
+C:\ShareCon Project\HelloWord\WebServices\bin\Antlr3.Runtime.pdb
+C:\ShareCon Project\HelloWord\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ShareCon Project\HelloWord\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
+C:\ShareCon Project\HelloWord\WebServices\obj\Debug\WebServices.csproj.CopyComplete
+C:\ShareCon Project\HelloWord\WebServices\obj\Debug\WebServices.dll
+C:\ShareCon Project\HelloWord\WebServices\obj\Debug\WebServices.pdb

@@ -1,0 +1,96 @@
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.deps.json
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\UpdateDeletePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfo.cs
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\XamaRin\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\Public\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.deps.json
+C:\Users\Public\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.dll
+C:\Users\Public\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csprojAssemblyReference.cache
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\UpdateDeletePage.xaml.g.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfo.cs
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.dll
+C:\Users\Public\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.pdb
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.deps.json
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.dll
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.pdb
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfoInputs.cache
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfo.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.dll
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.deps.json
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\BookPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\TransactionsPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\UpdateDeletePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfo.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csprojAssemblyReference.cache
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csprojAssemblyReference.cache
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.deps.json
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\bin\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.csprojAssemblyReference.cache
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\BookPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\HistoryPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\NewTravelPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\RegistrationPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\TransactionsPage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\UpdateDeletePage.xaml.g.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.AssemblyInfo.cs
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.dll
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\HelloWord.pdb
+C:\Users\300212953\Desktop\Ivyanje\GitHub\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\BookPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\HistoryPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\NewTravelPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\RegistrationPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\TransactionsPage.xaml.g.cs
+C:\ShareCon Project\HelloWord\HelloWord\HelloWord\obj\Debug\netstandard2.0\Views\UpdateDeletePage.xaml.g.cs

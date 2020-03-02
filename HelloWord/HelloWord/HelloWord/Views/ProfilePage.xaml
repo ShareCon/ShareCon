@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HelloWord.ProfilePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Profile" 
+                    Margin="150,20,90,0" FontSize="Title"/>
+            <Entry x:Name="CompanyName" 
+               Placeholder="CompanyName"
+             Margin="40,20,40,0"/>
+            <Entry x:Name="FullName" 
+               Placeholder="Name+FamilyName"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="StreetName" 
+               Placeholder="StreetName + Number"
+              Margin="40,-10,40,0" />
+            <Entry x:Name="CityName" 
+               Placeholder="City"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="CountryName" 
+               Placeholder="Country"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="PhoneNumber" 
+               Placeholder="PhoneNumber"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="Email" 
+               Placeholder="Email"
+               Margin="40,-10,40,0"/>
+            
+
+            <Button x:Name="Edit" Text="Edit"
+                Margin="50,30,50,50"
+                    Clicked="Edit_Clicked"
+              />
+
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

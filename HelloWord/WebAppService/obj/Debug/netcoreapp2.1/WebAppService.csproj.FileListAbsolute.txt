@@ -1,0 +1,14 @@
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\bin\Debug\netcoreapp2.1\WebAppService.deps.json
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\bin\Debug\netcoreapp2.1\WebAppService.runtimeconfig.json
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\bin\Debug\netcoreapp2.1\WebAppService.runtimeconfig.dev.json
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\bin\Debug\netcoreapp2.1\WebAppService.dll
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\bin\Debug\netcoreapp2.1\WebAppService.pdb
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.csprojAssemblyReference.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.csproj.CoreCompileInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.RazorAssemblyInfo.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.RazorAssemblyInfo.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.AssemblyInfoInputs.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.AssemblyInfo.cs
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.RazorTargetAssemblyInfo.cache
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.dll
+C:\Users\300212953\Desktop\Ivyanje\ShareCon\HelloWord\WebAppService\obj\Debug\netcoreapp2.1\WebAppService.pdb

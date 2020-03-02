@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HelloWord.RegistrationPage"
+             xmlns:viewmodels="clr-namespace:HelloWord.ViewModels">
+
+
+    <ContentPage.BindingContext>
+        <viewmodels:MainViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Sign Up" 
+                    Margin="150,20,90,0" FontSize="Title"/>
+            <Entry x:Name="FullName" 
+               Placeholder="FullName or CompanyName"
+                   Text="{Binding selectedUsers.FullOrCompanyName,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="StreetName" 
+               Placeholder="StreetName + Number"
+                   Text="{Binding selectedUsers.StreetNameAndNumber,Mode=TwoWay }"
+              Margin="40,-10,40,0" />
+            <Entry x:Name="CityName" 
+               Placeholder="City"
+                   Text="{Binding selectedUsers.City,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="CountryName" 
+               Placeholder="Country"
+                   Text="{Binding selectedUsers.Country,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="PhoneNumber" 
+               Placeholder="PhoneNumber"
+               Text="{Binding selectedUsers.PhoneNumber,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="Email" 
+               Placeholder="Email"
+                   Text="{Binding selectedUsers.Email,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="Password" 
+               Placeholder="Password"
+                   Text="{Binding selectedUsers.Password,Mode=TwoWay}"
+               Margin="40,-10,40,0"/>
+            <Entry x:Name="ConfirmPassword" 
+               Placeholder="ConfirmPassword"
+                   Text="{Binding confirmPassword}"
+             Margin="40,-10,40,0"/>
+
+            <Button x:Name="SignUp" Text="Sign Up"
+                Margin="50,30,50,50"
+                    Command="{Binding PostCommand}"
+              />
+
+            <Button x:Name="Login" Text=" Login"
+                Margin="100,-50,100,0"
+                    Clicked="Login_Clicked"
+              />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

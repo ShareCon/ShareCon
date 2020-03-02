@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HelloWord.MainPage"
+             >
+           
+
+    <StackLayout VerticalOptions="Center" Margin="16">
+        <!-- Place new controls here -->
+
+        <Label Text="Welcome" FontSize="Title"
+               Margin="120,0,120,50"/>
+        
+
+        <Entry x:Name="NameEntry" 
+               Placeholder="UserName"
+               Margin="50,0,50,50"/>
+        
+        <Entry x:Name="PasswordEntry" 
+               Placeholder="Password"
+               Margin="50,0,50,50"
+               IsPassword="True"/>
+        
+        <Button x:Name="LoginButton" Text=" Log IN"
+                Margin="50,0,50,50"
+                Clicked="LoginButton_Clicked" 
+              />
+
+        <Button x:Name="Register" Text=" Register"
+                Margin="100,0,100,40"
+                Clicked="Register_Clicked"
+              />
+
+
+
+    </StackLayout>
+
+</ContentPage>
